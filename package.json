@@ -1,0 +1,25 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "this repo is mainly for practicing TypeScript and it's utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKaminsky/typescript-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurKaminsky/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/ArthurKaminsky/typescript-tutorial#readme",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.5"
+  }
+}
