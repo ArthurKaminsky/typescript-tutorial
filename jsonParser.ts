@@ -1,5 +1,5 @@
-const jsonfile = require('jsonfile')
-const file = './jsonExample.json'
+var jsonfile = require('jsonfile')
+var file = './jsonExample.json'
 jsonfile.readFile(file, function (err, obj) {
   if (err) console.error(err)
   console.dir(obj)

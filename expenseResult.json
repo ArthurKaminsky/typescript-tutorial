@@ -1,0 +1,38 @@
+{
+    "data": {
+      "expenses": {
+        "objects": [
+          {
+            "id": "00c995a7-76f8-4d0b-b6d0-626bbbae607c",
+            "claimIndex": 14,
+            "date": "2016-09-13",
+            "claim": {
+              "id": 31,
+              "destination": {
+                "id": "1fca2958-8035-4f3c-b483-2bfef629735d",
+                "countryCode": "GB"
+              }
+            },
+            "invoiceNumber": "GAYCXJYFXWXGJ",
+            "vat": {
+              "claimable": {
+                "amount": 0.37
+              }
+            },
+            "subCategory": {
+              "id": "d92a55cb-3001-46dd-9259-b73b687f71a0",
+              "description": "Meal - Self"
+            },
+            "vendor": {
+              "id": "964eccf1-8c05-42e5-be05-c6c7d69c6683",
+              "name": "1882 Caffe Vergnano",
+              "vatId": "GB79233701",
+              "location": {
+                "description": "337-338 High Holborn, London, England, GB"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
